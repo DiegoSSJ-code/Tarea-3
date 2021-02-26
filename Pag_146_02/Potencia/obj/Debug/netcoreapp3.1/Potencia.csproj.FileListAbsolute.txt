@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.exe
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.deps.json
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.runtimeconfig.json
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.dll
+C:\Users\Win10\source\repos\Potencia\Potencia\bin\Debug\netcoreapp3.1\Potencia.pdb
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.dll
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.pdb
+C:\Users\Win10\source\repos\Potencia\Potencia\obj\Debug\netcoreapp3.1\Potencia.genruntimeconfig.cache
