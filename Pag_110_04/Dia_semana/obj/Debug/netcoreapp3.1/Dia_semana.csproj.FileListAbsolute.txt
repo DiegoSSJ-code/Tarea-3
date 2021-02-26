@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.exe
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.deps.json
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.runtimeconfig.json
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.dll
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\bin\Debug\netcoreapp3.1\Dia_semana.pdb
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.dll
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.pdb
+C:\Users\Win10\source\repos\Dia_semana\Dia_semana\obj\Debug\netcoreapp3.1\Dia_semana.genruntimeconfig.cache
