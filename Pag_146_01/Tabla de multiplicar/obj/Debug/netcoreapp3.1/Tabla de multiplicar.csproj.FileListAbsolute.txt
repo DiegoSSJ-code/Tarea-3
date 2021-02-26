@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.exe
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.deps.json
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.runtimeconfig.json
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.dll
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\bin\Debug\netcoreapp3.1\Tabla de multiplicar.pdb
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.dll
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.pdb
+C:\Users\Win10\source\repos\Tabla de multiplicar\Tabla de multiplicar\obj\Debug\netcoreapp3.1\Tabla de multiplicar.genruntimeconfig.cache
