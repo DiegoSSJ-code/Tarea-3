@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.exe
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.deps.json
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.runtimeconfig.json
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.dll
+C:\Users\Win10\source\repos\Primo\Primo\bin\Debug\netcoreapp3.1\Primo.pdb
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.dll
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.pdb
+C:\Users\Win10\source\repos\Primo\Primo\obj\Debug\netcoreapp3.1\Primo.genruntimeconfig.cache
