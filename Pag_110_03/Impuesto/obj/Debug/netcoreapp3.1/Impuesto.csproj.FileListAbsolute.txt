@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.exe
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.deps.json
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.runtimeconfig.json
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.dll
+C:\Users\Win10\source\repos\Impuesto\Impuesto\bin\Debug\netcoreapp3.1\Impuesto.pdb
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.dll
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.pdb
+C:\Users\Win10\source\repos\Impuesto\Impuesto\obj\Debug\netcoreapp3.1\Impuesto.genruntimeconfig.cache
