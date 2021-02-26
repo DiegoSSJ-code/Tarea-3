@@ -1,0 +1,12 @@
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.exe
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.deps.json
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.runtimeconfig.json
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.dll
+C:\Users\Win10\source\repos\Poligono\Poligono\bin\Debug\netcoreapp3.1\Poligono.pdb
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.dll
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.pdb
+C:\Users\Win10\source\repos\Poligono\Poligono\obj\Debug\netcoreapp3.1\Poligono.genruntimeconfig.cache
