@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.exe
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.deps.json
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.runtimeconfig.json
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.dll
+C:\Users\Win10\source\repos\rad_grad\rad_grad\bin\Debug\netcoreapp3.1\rad_grad.pdb
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.AssemblyInfo.cs
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.dll
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.pdb
+C:\Users\Win10\source\repos\rad_grad\rad_grad\obj\Debug\netcoreapp3.1\rad_grad.genruntimeconfig.cache
