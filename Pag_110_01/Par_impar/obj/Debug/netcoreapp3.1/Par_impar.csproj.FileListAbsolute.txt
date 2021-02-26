@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.exe
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.deps.json
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.runtimeconfig.json
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.dll
+C:\Users\Win10\source\repos\Par_impar\Par_impar\bin\Debug\netcoreapp3.1\Par_impar.pdb
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.AssemblyInfo.cs
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.dll
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.pdb
+C:\Users\Win10\source\repos\Par_impar\Par_impar\obj\Debug\netcoreapp3.1\Par_impar.genruntimeconfig.cache
